@@ -142,7 +142,7 @@ For each clean utterance, the current augmentation script generates one noisy ve
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ASVspoof-2019-LA-SRN.git
+git clone https://github.com/AnodHuang/ASVspoof-2019-LA-SRN.git
 cd ASVspoof-2019-LA-SRN
 ```
 
@@ -291,11 +291,11 @@ The following table summarizes the main results after noise-augmented fine-tunin
 
 ### False Positives and False Negatives
 
-<img src="figures/ojsp_fp_fn.png" alt="False Positive and False Negative Comparison" width="600"/>
+<img src="ojsp_fp_fn.png" alt="False Positive and False Negative Comparison" width="600"/>
 
 ### Accuracy and F1 Score
 
-<img src="figures/ojsp_acc_f1.png" alt="Accuracy and F1 Score Comparison" width="600"/>
+<img src="ojsp_acc_f1.png" alt="Accuracy and F1 Score Comparison" width="600"/>
 
 ---
 
