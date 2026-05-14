@@ -1,0 +1,11 @@
+{
+  "model": "mit_ast_original",
+  "model_path": "D:\\capstone\\EER\\models\\MIT-AST",
+  "score_path": "D:\\capstone\\EER\\results\\scores\\mit_ast_original_scores.csv",
+  "total_samples": 71237,
+  "completed_samples": 71237,
+  "remaining_samples": 0,
+  "status": "completed",
+  "error": null,
+  "updated_at": "2026-05-14T00:27:19"
+}

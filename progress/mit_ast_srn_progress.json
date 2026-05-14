@@ -1,0 +1,11 @@
+{
+  "model": "mit_ast_srn",
+  "model_path": "D:\\capstone\\EER\\models\\MIT-AST-SRN",
+  "score_path": "D:\\capstone\\EER\\results\\scores\\mit_ast_srn_scores.csv",
+  "total_samples": 71237,
+  "completed_samples": 71237,
+  "remaining_samples": 0,
+  "status": "completed",
+  "error": null,
+  "updated_at": "2026-05-14T01:31:59"
+}

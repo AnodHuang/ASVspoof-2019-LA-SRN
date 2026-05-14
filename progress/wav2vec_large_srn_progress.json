@@ -1,0 +1,11 @@
+{
+  "model": "wav2vec_large_srn",
+  "model_path": "D:\\capstone\\EER\\models\\Wav2VecLargeSRN",
+  "score_path": "D:\\capstone\\EER\\results\\scores\\wav2vec_large_srn_scores.csv",
+  "total_samples": 71237,
+  "completed_samples": 71237,
+  "remaining_samples": 0,
+  "status": "completed_from_existing_scores",
+  "error": null,
+  "updated_at": "2026-05-13T22:53:41"
+}

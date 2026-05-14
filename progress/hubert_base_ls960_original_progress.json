@@ -1,0 +1,11 @@
+{
+  "model": "hubert_base_ls960_original",
+  "model_path": "D:\\capstone\\EER\\models\\hubert-base-ls960",
+  "score_path": "D:\\capstone\\EER\\results\\scores\\hubert_base_ls960_original_scores.csv",
+  "total_samples": 71237,
+  "completed_samples": 71237,
+  "remaining_samples": 0,
+  "status": "completed",
+  "error": null,
+  "updated_at": "2026-05-13T23:09:45"
+}
